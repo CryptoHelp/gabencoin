@@ -190,6 +190,25 @@
         </widget>
        </item>
        <item>
+        <widget class="QLabel" name="label_wallet_icon">
+         <property name="text">
+          <string/>
+         </property>
+         <property name="pixmap">
+          <pixmap resource="../bitcoin.qrc">:/icons/res/images/wallet_icon.png</pixmap>
+         </property>
+         <property name="scaledContents">
+          <bool>false</bool>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignCenter</set>
+         </property>
+         <property name="margin">
+          <number>-2</number>
+         </property>
+        </widget>
+       </item>
+       <item>
         <spacer name="verticalSpacer">
          <property name="orientation">
           <enum>Qt::Vertical</enum>
@@ -296,6 +315,9 @@
    </item>
   </layout>
  </widget>
- <resources/>
+ <resources>
+  <include location="../../../../dogecoin-1.6-maint/dogecoin-1.6-maint/src/qt/bitcoin.qrc"/>
+  <include location="../bitcoin.qrc"/>
+ </resources>
  <connections/>
 </ui>
