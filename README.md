@@ -26,14 +26,4 @@ This is my special revelation from our lord and savior to remove the need for pe
 
 I am only the messenger.  A scribe for the great lord.  I have now delivered his divine words to you.  My purpose is complete. All praise holy Gaben, and let the mining begin!
 
-More information on the great lord Gaben's divine currency to be found soon at:
-www.gabencoin.org
-For Information to start mining, you can download the wallet from the following links:
-https://github.com/gabens/gabencoin/
-
-MEGA  qt windows: https://mega.co.nz/#!Vdo31IbC!jpfxln-aqItAah92KK_EhA9fBySDuZPTqygCxe87Osg
-
-Mega qt linux
-https://mega.co.nz/#!QJh3WB4L!CyZnCJJWoseWI8K0Zz1OgbeBDj1HCN1iT817O9bsSO8
-
 Future discussion about gabencoins can be directed to /r/gaben_coin
